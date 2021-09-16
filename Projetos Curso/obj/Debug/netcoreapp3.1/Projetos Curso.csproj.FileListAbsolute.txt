@@ -1,0 +1,4 @@
+C:\Users\Sr & Sra Kaesarac\Desktop\C#\Projetos Curso\obj\Debug\netcoreapp3.1\Projetos Curso.csprojAssemblyReference.cache
+C:\Users\Sr & Sra Kaesarac\Desktop\C#\Projetos Curso\obj\Debug\netcoreapp3.1\Projetos Curso.AssemblyInfoInputs.cache
+C:\Users\Sr & Sra Kaesarac\Desktop\C#\Projetos Curso\obj\Debug\netcoreapp3.1\Projetos Curso.AssemblyInfo.cs
+C:\Users\Sr & Sra Kaesarac\Desktop\C#\Projetos Curso\obj\Debug\netcoreapp3.1\Projetos Curso.csproj.CoreCompileInputs.cache
